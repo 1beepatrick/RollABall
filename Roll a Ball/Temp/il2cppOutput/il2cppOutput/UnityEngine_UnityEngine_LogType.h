@@ -1,0 +1,11 @@
+﻿#pragma once
+// System.Enum
+#include "mscorlib_System_Enum.h"
+// UnityEngine.LogType
+#include "UnityEngine_UnityEngine_LogType.h"
+// UnityEngine.LogType
+struct LogType_t2013 
+{
+	// System.Int32 UnityEngine.LogType::value__
+	int32_t ___value___1;
+};

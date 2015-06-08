@@ -1,0 +1,13 @@
+﻿#pragma once
+// System.ValueType
+#include "mscorlib_System_ValueType.h"
+// UnityEngine.Resolution
+struct Resolution_t2040 
+{
+	// System.Int32 UnityEngine.Resolution::m_Width
+	int32_t ___m_Width_0;
+	// System.Int32 UnityEngine.Resolution::m_Height
+	int32_t ___m_Height_1;
+	// System.Int32 UnityEngine.Resolution::m_RefreshRate
+	int32_t ___m_RefreshRate_2;
+};
